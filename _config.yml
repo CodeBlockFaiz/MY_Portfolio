@@ -26,3 +26,9 @@ skills:
   - Tools: Git, VS Code,
 
 # Add any other configuration settings or customization options here
+footer:
+  text: "Let's build something amazing together! Reach out to me at syedfaizanmuyeezcse2024@gmail.com "
+  copyright: "© 2024 Syed Faizan Muyeez. All rights reserved."
+  call_to_action:
+    label: "Download Resume"
+    url: "https://drive.google.com/file/d/1C2o_EvgMDDfBYYIi_3E632HWevpbnOHR/view?usp=drive_link"
