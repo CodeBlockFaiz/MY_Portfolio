@@ -1,0 +1,28 @@
+# _config.yml
+
+theme: jekyll-theme-minimal
+
+title: Syed Faizan Muyeez - Software Engineer Portfolio
+description: Passionate about creating innovative solutions and contributing to the world of technology.
+
+author:
+  name: Syed Faizan Muyeez
+  email: syedfaizanmuyeezcse2024@gmail.com
+  url: https://www.syedfaizanmuyeez.com
+
+# Social Media Links
+social:
+  - name: LinkedIn
+    url: https://www.linkedin.com/in/syed-faizan-muyeez
+  - name: GitHub
+    url: https://github.com/CodeBlockFaiz
+  # Add more social media links as needed
+
+# Skills
+skills:
+  - Programming: Python, Java, C/C++
+  - Web Development: HTML, CSS, JavaScript, React , Bootstrap ,Django 
+  - Database: MySQL
+  - Tools: Git, VS Code,
+
+# Add any other configuration settings or customization options here
