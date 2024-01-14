@@ -1,4 +1,5 @@
-# Syed Faizan Muyeez - Software Engineer || Data Science Enthusiastic 
+# Syed Faizan Muyeez 
+- Software Engineer || Data Science Enthusiastic 
 
 Welcome to my GitHub portfolio! 👋 This repository hosts the source code for my personal website and portfolio.
 
